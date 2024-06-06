@@ -1,4 +1,3 @@
-# DHIS2-login-qrcode-generation
 # QR Code Generator Documentation
 
 This script generates a QR code containing encoded information such as a server URL, username, and password. The QR code is then saved as an image file. The script utilizes the `qrcode` library in Python.
